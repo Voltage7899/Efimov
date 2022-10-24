@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669200798977",
+    "firebase_url": "https://efimov-9d4ca-default-rtdb.firebaseio.com",
+    "project_id": "efimov-9d4ca",
+    "storage_bucket": "efimov-9d4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669200798977:android:53df6c31452f2211cc7700",
+        "android_client_info": {
+          "package_name": "com.company.efimov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669200798977-un7hiujddep0oe2e2anetptgc9i45r9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.efimov",
+            "certificate_hash": "fe4e9bc1c7296759fc9245eed3eb89e82f4db492"
+          }
+        },
+        {
+          "client_id": "669200798977-6qa3ua6htd18lc6bac2h0stdl4aap6kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZym0Q2zJuuIe5cInJLAvflhSqYvoLNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669200798977-6qa3ua6htd18lc6bac2h0stdl4aap6kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

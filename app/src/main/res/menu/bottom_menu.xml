@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/indication"
+        android:icon="@drawable/ic_baseline_article_24"
+        android:title=""
+        android:orderInCategory="1"/>
+    <item android:id="@+id/companies"
+        android:icon="@drawable/ic_baseline_corporate_fare_24"
+        android:title=""
+        android:orderInCategory="2"/>
+    <item android:id="@+id/admin"
+        android:icon="@drawable/ic_baseline_admin_panel_settings_24"
+        android:title=""
+        android:orderInCategory="3"/>
+    <item android:id="@+id/kvitancia"
+        android:icon="@drawable/ic_baseline_receipt_long_24"
+        android:title=""
+        android:orderInCategory="4"/>
+
+</menu>
